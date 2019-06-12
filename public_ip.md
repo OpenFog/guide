@@ -11,4 +11,4 @@
 
  4. [腾讯云开启服务器防火墙端口](https://github.com/OpenFog/guide/blob/master/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%BC%80%E5%90%AF%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%98%B2%E7%81%AB%E5%A2%99%E7%AB%AF%E5%8F%A3.md)
  
- 5. [阿里云开启服务器防火墙端口.md](https://github.com/OpenFog/guide/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%80%E5%90%AF%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%98%B2%E7%81%AB%E5%A2%99%E7%AB%AF%E5%8F%A3.md)
+ 5. [阿里云开启服务器防火墙端口](https://github.com/OpenFog/guide/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%80%E5%90%AF%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%98%B2%E7%81%AB%E5%A2%99%E7%AB%AF%E5%8F%A3.md)
