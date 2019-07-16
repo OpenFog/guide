@@ -1,7 +1,5 @@
 1. 查看NAT类型：
 登录：https://i.openfogos.com/home
-
-
 NAT网络类型分类
 	* 全锥型
 	* 限制型
